@@ -1,0 +1,6 @@
+[ELFIO]
+git-tree-sha1 = "8e3b645668713c3b05dca56048d97726f42d0f1c"
+
+    [[ELFIO.download]]
+    sha256 = "6946b59ba4dbea50f2d227086745043df2d5c53faac4748fcedb5ff6402b113e"
+    url = "https://github.com/Mellich/ELFIO_jll.jl/releases/download/ELFIO-v3.12.0+0/ELFIO.v3.12.0.any.tar.gz"
